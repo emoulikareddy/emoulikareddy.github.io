@@ -24,6 +24,19 @@
 
 }
 
+.jumbotron {
+
+    padding-bottom: 0px!important;
+    margin-bottom: 0px!important;
+ 
+}
+
+#section3{
+  padding-top: 50px;
+}
+#section4{
+  padding-top: 50px;
+}
 .prjct2{
 float: center; 
 }
